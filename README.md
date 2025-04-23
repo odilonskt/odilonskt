@@ -59,7 +59,7 @@ Atualmente, estudo e pratico todos os dias com foco em me tornar uma **desenvolv
 ## 📊 GitHub Stats
 <div style="text-align: center;" align="center" >
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odilonskt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=b6ff00&text_color=FFF&border_radius=3&border_color=b6ff00c&icon_color=b6ff00&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odilonskt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=b6ff00&title_color=b6ff00&text_color=FFF&border_radius=3&border_color=b6ff00c&icon_color=b6ff00&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odilonskt&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=b6ff00&hide=html,scss,less&bg_color=000&text_color=b6ff00&border_radius=3&border_color=b6ff00&count_private=true" alt="Most Used Languages">
