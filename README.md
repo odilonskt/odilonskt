@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-Sou estudante do programa <strong>Programadores do Amanhã</strong>, com grande interesse em <strong>Desenvolvimento Web</strong>.
+Sou estudante da instituição <strong>Programadores do Amanhã</strong>, com grande interesse em <strong>Desenvolvimento Web</strong>.
 Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, adquirir novas experiências e crescer profissionalmente na área de tecnologia.
 </p>
 
