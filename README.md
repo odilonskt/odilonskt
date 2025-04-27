@@ -17,17 +17,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo e utilizando:
-<div style="display inline_block" align="center">
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  height="40"/>
- </div>         
+   
 
    ### 🤖 Linguagens e Tecnologias 
   <div style="display: flex; align-items: flex-start; justify-content:flex-start" >
@@ -81,6 +71,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
     </td>
     
   </tr>
+  </div>
 </table>
 <br><br>
 
