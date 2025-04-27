@@ -28,7 +28,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
       <a href="#macropower-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40"/>
       </a>
-      <br>angular
+      <br>Angular
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -44,7 +44,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
     </td>
     <td align="center"  width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  height="40"/>
-      <br>express
+      <br>Express
     </td>
 
   </tr>
@@ -54,16 +54,16 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>FastApi
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br> TyperScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="jQuery" />
       <br>Rest API
     </td>
     <td align="center" width="96">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="40"/>
-      <br>git
+       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="redis" />
