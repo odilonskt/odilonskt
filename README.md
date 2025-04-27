@@ -71,11 +71,9 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
     </td>
     
   </tr>
-  </div>
 </table>
 <br><br>
-
-          
+</div>     
           
            
 
