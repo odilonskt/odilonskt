@@ -49,7 +49,8 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
 
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center"
+ width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
@@ -81,9 +82,9 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
 
 ## 💡 Sobre mim
 
-Sou uma desenvolvedora em formação, dedicada e sempre em busca de evolução.  
-Tenho facilidade para trabalhar em equipe, sou comunicativa, proativa e gosto de aprender na prática com projetos desafiadores.  
-Atualmente, estudo e pratico todos os dias com foco em me tornar uma **desenvolvedora Full Stack**.
+Sou um desenvolvedor em formação, dedicado e sempre em busca de evolução.
+Tenho facilidade para trabalhar em equipe, sou comunicativo, proativo e gosto de aprender na prática com projetos desafiadores.
+Atualmente, estudo e pratico todos os dias com foco em me tornar um **desenvolvedor Full Stack**.
 
 ---
 
