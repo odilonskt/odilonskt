@@ -52,8 +52,7 @@ Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos, 
     <td align="center"
  width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <
-br>CSS
+      <br>CSS
     </td>
     <td align="center"  width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
