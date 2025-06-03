@@ -61,14 +61,16 @@ Sou Odilon, estudante de Análise e Desenvolvimento de Sistemas e participante d
 
 ---
 
-<h3 align="center">📫 Como me encontrar:</h3>
-
+<h3 align="center">📫 Onde me encontrar:</h3>
 <p align="center">
   <a href="mailto:odilon123c@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=39FF14&color=000000">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=39FF14" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/odilon-de-campos-742a202a0/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=39FF14&color=000000">
+  <a href="https://www.linkedin.com/in/odilon-de-campos-742a202a0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=39FF14" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/odilonskt" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=39FF14" alt="GitHub">
   </a>
 </p>
 
@@ -80,6 +82,11 @@ Sou Odilon, estudante de Análise e Desenvolvimento de Sistemas e participante d
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odilonskt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=39FF14&text_color=ffffff&border_radius=3&border_color=39FF14&icon_color=39FF14&theme=jolly" alt="GitHub stats">
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odilonskt&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=39FF14&hide=html,scss,less&bg_color=000000&text_color=39FF14&border_radius=3&border_color=39FF14" alt="Most Used Languages">
-
-
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=odilonskt&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
+<h3 align="center">🏆 Conquistas no GitHub</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=odilonskt&theme=onedark&title=Commit,PullRequest,Issues,Repositories,Stars&no-frame=true&row=2&margin-w=15&margin-h=15" align="center"/>
+</p>
+
+
