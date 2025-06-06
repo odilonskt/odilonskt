@@ -1,8 +1,9 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
-  </a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=header"/>
+
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Odilon+de+Campos;I+am+from+Sete+Lagoas,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ---
 
@@ -86,4 +87,4 @@ Sou Odilon, estudante de Análise e Desenvolvimento de Sistemas e participante d
 </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
