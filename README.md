@@ -79,9 +79,6 @@ Sou Odilon, estudante de Análise e Desenvolvimento de Sistemas e participante d
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odilonskt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=39FF14&text_color=ffffff&border_radius=3&border_color=39FF14&icon_color=39FF14&theme=jolly" alt="GitHub stats">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odilonskt&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=39FF14&hide=html,scss,less&bg_color=000000&text_color=39FF14&border_radius=3&border_color=39FF14" alt="Most Used Languages">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=odilonskt&theme=dark&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
 
