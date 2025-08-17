@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-Sou Odilon,Desenvolvedor full-stack, estudante de Análise e Desenvolvimento de Sistemas e formando no programa Programadores do Amanhã, iniciativa de formação intensiva em tecnologia e empregabilidade. Busco uma oportunidade como desenvolvedor full stack júnior ou estagiário, com foco em <strong>Node.js</strong>, <strong>React</strong> e <strong>MySQL</strong>. Me destaco por minhas habilidades socioemocionais como comunicação, proatividade, organização e resiliência. Tenho facilidade para trabalhar em equipe e aprender na prática com projetos desafiadores. Já contribui em projetos estudantis e pessoais, o que reforçou minha capacidade de colaboração e resolução de problemas. Estudo e pratico todos os dias com foco em me tornar um <strong>desenvolvedor Full Stack</strong>.
+Sou Odilon, Desenvolvedor full-stack, estudante de Análise e Desenvolvimento de Sistemas e formando no programa Programadores do Amanhã, iniciativa de formação intensiva em tecnologia e empregabilidade. Busco uma oportunidade como desenvolvedor full stack júnior ou estagiário, com foco em <strong>Node.js</strong>, <strong>React</strong> e <strong>MySQL</strong>. Me destaco por minhas habilidades socioemocionais como comunicação, proatividade, organização e resiliência. Tenho facilidade para trabalhar em equipe e aprender na prática com projetos desafiadores. Já contribui em projetos estudantis e pessoais, o que reforçou minha capacidade de colaboração e resolução de problemas. Estudo e pratico todos os dias com foco em me tornar um <strong>desenvolvedor Full Stack</strong>.
 </p>
 
 ---
