@@ -8,7 +8,10 @@
 ---
 
 <p align="center">
-Sou Odilon, Desenvolvedor full-stack, estudante de Análise e Desenvolvimento de Sistemas e formando no programa Programadores do Amanhã, iniciativa de formação intensiva em tecnologia e empregabilidade. Busco uma oportunidade como desenvolvedor full stack júnior ou estagiário, com foco em <strong>Node.js</strong>, <strong>React</strong> e <strong>MySQL</strong>. Me destaco por minhas habilidades socioemocionais como comunicação, proatividade, organização e resiliência. Tenho facilidade para trabalhar em equipe e aprender na prática com projetos desafiadores. Já contribui em projetos estudantis e pessoais, o que reforçou minha capacidade de colaboração e resolução de problemas. Estudo e pratico todos os dias com foco em me tornar um <strong>desenvolvedor Full Stack</strong>.
+Sou Desenvolvedor Full Stack Júnior focado em JavaScript, Node.js e React, com experiência prática na criação de APIs RESTful e Single-Page Applications (SPA). Tenho proficiência em MySQL e Git/GitHub, além de interesse constante em aprimorar minhas habilidades técnicas.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na PUC Minas e sou formando pelo programa Programadores do Amanhã, iniciativa de formação intensiva em tecnologia e empregabilidade.
+Busco minha primeira oportunidade como Desenvolvedor Full Stack em Desenvolvimento, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos desafiadores.
+Sou curioso, proativo e comunicativo, com facilidade de aprendizado e gosto por trabalhar em equipe. Acredito na tecnologia como ferramenta de transformação e estou pronto para colocar meu potencial em prática.
 </p>
 
 ---
@@ -50,13 +53,31 @@ Sou Odilon, Desenvolvedor full-stack, estudante de Análise e Desenvolvimento de
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48"/><br>Rest API
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96"
+>
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
       </td>
     </tr>
+     <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48"/><br>NestJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>TailwindCSS
+    </td>
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>Postgres
+    </td>
+  </tr>
   </table>
 </div>
 
