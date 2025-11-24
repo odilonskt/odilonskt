@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-Sou Desenvolvedor Full Stack  focado em JavaScript/TypeScript, Node.js e React, com experiência prática na criação de APIs RESTful e Single-Page Applications (SPA). Tenho proficiência em MySQL e Git/GitHub, além de interesse constante em aprimorar minhas habilidades técnicas. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUC Minas e sou formando pelo programa Programadores do Amanhã, iniciativa de formação intensiva em tecnologia e empregabilidade. Busco minha primeira oportunidade como Desenvolvedor Full Stack em Desenvolvimento, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos desafiadores. Sou curioso, proativo e comunicativo, com facilidade de aprendizado e gosto por trabalhar em equipe. Acredito na tecnologia como ferramenta de transformação e estou pronto para colocar meu potencial em prática.
+Desenvolvedor Full Stack focado em JavaScript/TypeScript, Node.js (Express/NestJS) e React/NextJS. Experiência prática na criação de APIs RESTful com e Single-Page Applications (SPA), com proficiência em MySQL/PostgreSQL e Git/GitHub. Formação complementar intensiva pelo programa Programadores do Amanhã e cursando Análise e Desenvolvimento de Sistemas na PUC - MG. Profissional proativo, com rápida adaptabilidade a novas tecnologias e forte interesse em contribuir para projetos desafiadores e com foco em resultados.
 </p>
 
 ---
