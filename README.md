@@ -91,6 +91,12 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na PUC-MG e formado p
   <a href="https://github.com/odilonskt" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=39FF14" alt="GitHub">
   </a>
+<a
+  href="https://docs.google.com/document/d/1p8Dg2LF-acbwpfGUGaTkE2P543XlWjN9Bu5pX3V18Ts/edit?usp=sharing"
+  target="_blank"
+>
+  <img src="https://img.shields.io/badge/-Currículo-000?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=39FF14" alt="Currículo">
+</a>
 </p>
 
 ---
