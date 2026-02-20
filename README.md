@@ -8,8 +8,11 @@
 ---
 
 <p align="center">
-Desenvolvedor Full Stack com foco em aplicações web modernas utilizando JavaScript/TypeScript, Node.js (Express/NestJS) e React/Next.js. Experiência no desenvolvimento de APIs RESTful, autenticação com JWT, integração com banco de dados relacionais (PostgreSQL/MySQL) e deploy de aplicações utilizando Docker.
-Atualmente cursando Análise e Desenvolvimento de Sistemas na PUC-MG e formado pelo programa Programadores do Amanhã. Busco oportunidades como Desenvolvedor Full Stack, contribuindo com código limpo, boas práticas e foco em performance e escalabilidade.</p>
+Desenvolvedor Full Stack com foco em aplicações web modernas utilizando JavaScript/TypeScript, Node.js (Express/NestJS) e React/Next.js. Experiência no desenvolvimento de APIs RESTful, autenticação com JWT, integração com bancos de dados relacionais (PostgreSQL/MySQL) e construção de aplicações SPA responsivas.
+
+Vivência em projetos colaborativos utilizando Git/GitHub e metodologias ágeis, com foco em código limpo, boas práticas, performance e escalabilidade.
+
+Atualmente cursando Análise e Desenvolvimento de Sistemas na PUC Minas e formado pelo programa Programadores do Amanhã. Busco oportunidades como Desenvolvedor Full Stack, contribuindo para o desenvolvimento de soluções eficientes e bem estruturadas.</p>
 
 ---
 
