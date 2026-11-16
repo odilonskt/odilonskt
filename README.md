@@ -8,13 +8,15 @@
 ---
 
 <p align="center">
-Desenvolvedor Full Stack com foco em aplicações web modernas utilizando JavaScript/TypeScript, Node.js (Express/NestJS) e React/Next.js. Experiência no desenvolvimento de APIs RESTful, autenticação com JWT, integração com bancos de dados relacionais (PostgreSQL/MySQL) e construção de aplicações SPA responsivas.
+Desenvolvedor <b>Full Stack</b> (Front-end e Back-end) com aplicações web em produção usando <b>React, Next.js, Node.js, NestJS e TypeScript</b>. Construo APIs RESTful com JWT, Prisma e PostgreSQL, e interfaces com SSR/ISR, Server Components, responsividade e acessibilidade.
+<br><br>
+☁️ <b>Cloud e DevOps:</b> AWS, Terraform, CI/CD, Docker e Vercel<br>
+🤖 <b>IA no desenvolvimento:</b> Spec-Driven Development (SDD) e agentes de IA com Claude Code<br>
+✅ <b>Qualidade:</b> testes com Jest, code review, Git/GitHub e metodologias ágeis
+<br><br>
+Cursando Análise e Desenvolvimento de Sistemas na PUC Minas (monitor de front-end) e formado pelo Programadores do Amanhã. Aberto a oportunidades como Desenvolvedor Full Stack, Front-end, Back-end ou Trainee.
+</p>
 
-Vivência em projetos colaborativos utilizando Git/GitHub e metodologias ágeis, com foco em código limpo, boas práticas, performance e escalabilidade.
-
-Atualmente cursando Análise e Desenvolvimento de Sistemas na PUC Minas e formado pelo programa Programadores do Amanhã. Busco oportunidades como Desenvolvedor Full Stack, contribuindo para o desenvolvimento de soluções eficientes e bem estruturadas.</p>
-
----
 
 <div align="center">
   <img src="./src/Coding Hello World GIF.gif" alt="study gif" height="190px">
